@@ -1,0 +1,29 @@
+@media all and (max-width: 670px){
+
+  .contents-list{
+    display: none;
+  }
+
+  .tablet{
+    display: block;
+  }
+
+  .title h1{
+    font-size: 25px;
+    border: solid 2.5px;
+  }
+
+  .caliculam img{
+    width: 100%;
+    height: 450px;
+  }
+
+  .fee img{
+    width: 100%;
+    height: 250px;
+  }
+
+  .one_day img{
+    width: 100%;
+    height: 250px;
+  }
