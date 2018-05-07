@@ -116,17 +116,13 @@ footer{
   color: gray;
 }
 
-.caliculam{
-  border-bottom: solid 3px #90ee90;
-}
-
 .caliculam img{
   height: 600px;
   width: 700px;
 }
 
 .fee{
-  border-bottom: solid 3px #90ee90;
+  border-bottom: solid 5px #90ee90;
 }
 
 .fee img{
@@ -134,8 +130,8 @@ footer{
   width: 700px;
 }
 
-.one_day{
-  border-bottom: solid 3px #90ee90;
+.coment span{
+  font-weight: bold;
 }
 
 .one_day img{
@@ -143,10 +139,9 @@ footer{
   width: 700px;
 }
 
-
-
 .over{
   color: gray;
   text-align: right;
   margin-right: 20px;
 }
+
