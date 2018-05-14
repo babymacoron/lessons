@@ -6,6 +6,9 @@ header{
   background:linear-gradient(to bottom,#FFD5EC,white);
   height: 130px;
   width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 
 footer{
@@ -118,6 +121,11 @@ footer{
 
 .main{
   margin: 0 3%;
+  margin-top: 230px;
+}
+
+.main h2{
+  background-color: #FFFDE6;
 }
 
 .caliculam img{
