@@ -30,4 +30,10 @@
   .one_day img{
     width: 100%;
     height: 250px;
+}
+
+  .curriculum h2,.one_day h2{
+      font-size: 16px;
+      text-align: center;
+    }
   }
