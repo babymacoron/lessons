@@ -129,6 +129,10 @@ footer{
   background-color: #FFFDE6;
 }
 
+.big{
+  color: pink;
+}
+
 .curriculum img{
   height: 600px;
   width: 700px;
@@ -157,4 +161,3 @@ footer{
   text-align: right;
   margin-right: 20px;
 }
-
